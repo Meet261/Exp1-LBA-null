@@ -5,8 +5,6 @@ dependencies:
   - r-base=4.3
   - r-tidyverse
   - r-mvtnorm
-  - r-pmwg
-  - r-rtdists
   - r-knitr
   - r-rmarkdown
   - r-devtools
