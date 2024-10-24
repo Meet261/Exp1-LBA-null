@@ -1,4 +1,5 @@
 # The r-rtdists and r-pmwg packages are not available through the standard Conda channels. To solve this issue, we can install these packages directly from CRAN using R within the Binder environment.
 #!/bin/bash
 R -e "install.packages('rtdists', repos='http://cran.rstudio.com/')"
-R -e "devtools::install_github('jpalmer37/pmwg')"
+R -e "devtools::install_github('hanswilly/pmwg')"
+
