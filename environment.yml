@@ -11,4 +11,3 @@ dependencies:
   - r-rcpp
   - r-coda
   - r-ggplot2
-  - r-pmwg
