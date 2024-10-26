@@ -8,5 +8,5 @@ This section tracks the reproducibility status and issues faced while running th
 
 | **File Name**                   | **Dependencies**                                                | **Reproducibility Status** | **Issue/Obstacle**                                                                                                                                                            |
 |---------------------------------|-----------------------------------------------------------------|----------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `Exp1-LBA-null.R`               | `r-tidyverse`, `r-mvtnorm`, `r-knitr`, `r-rmarkdown`, `r-devtools`, `r-rcpp`, `r-coda`, `r-ggplot2` | Not Reproducible            | The function `pmwgs` is not found. This could be because the required package for `pmwgs` is missing or not installed properly. Consider checking or installing the package `pmwg`. |
+| `Exp1-LBA-null.R`               | `r-tidyverse`, `r-mvtnorm`, `r-knitr`, `r-rmarkdown`, `r-devtools`, `r-rcpp`, `r-coda`, `r-ggplot2` | Not Reproducible            | The function `pmwgs` is not found. This could be because the required package for `pmwgs` is missing or not installed properly. |
 
