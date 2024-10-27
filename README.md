@@ -10,3 +10,6 @@ This section tracks the reproducibility status and issues faced while running th
 |---------------------------------|-----------------------------------------------------------------|----------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | `Exp1-LBA-null.R`               | `r-tidyverse`, `r-mvtnorm`, `r-knitr`, `r-rmarkdown`, `r-devtools`, `r-rcpp`, `r-coda`, `r-ggplot2` | Not Reproducible            | The function `pmwgs` is not found. This could be because the required package for `pmwgs` is missing or not installed properly. |
 
+## Acknowledgments
+
+This project uses data and resources from [Speed-Accuracy Tradeoffs In Decision Making: Perception Shifts And Goal Activation Bias Decision Thresholds](https://osf.io/wbyj7/). We acknowledge the contributions of the authors of the original project. Please refer to the [Speed-Accuracy Tradeoffs In Decision Making: Perception Shifts And Goal Activation Bias Decision Thresholds](https://osf.io/wbyj7/) for more details.
